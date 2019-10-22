@@ -1,5 +1,6 @@
 # Don't track content of these folders
 py36/
+.ipynb_checkpoints/
 
 
 # Compiled sources
